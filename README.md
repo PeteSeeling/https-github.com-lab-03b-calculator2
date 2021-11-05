@@ -23,3 +23,17 @@
 * Cypress will open -- you should then click "run <#> integration spec(s)"
     ![](cypress.png)
 * Make sure all tests pass
+
+
+
+## Html
+-add 2 inputsX
+-add buttonX
+-add result boxX
+
+## css
+-modify input boxes if neededX
+-modify button if neededX
+-modify result boxX
+
+## js

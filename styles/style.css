@@ -111,3 +111,26 @@ footer {
     }
 
   }
+
+  input{
+      width: 200px;
+      height: 50px;
+      margin: 15px;
+      font-size: 20px;
+      text-align: center;
+  }
+
+  .button1{
+      width:100px;
+      height:50px
+  }
+output{
+    width: 200px;
+    height: 50px;
+    margin: 15px;
+    text-align: center;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    
+}
